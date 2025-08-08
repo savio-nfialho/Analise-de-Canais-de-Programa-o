@@ -37,7 +37,7 @@ O estudo coleta dados públicos via API, calcula métricas de performance, gera 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/savio-nfialho/Analise-de-Canais-de-Programa-o.git
    ```
 2. Instale as dependências:
    ```bash
